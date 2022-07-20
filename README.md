@@ -1,4 +1,4 @@
-# BAC - Binary Asset Creator
+BAC - Binary Asset Creator
 =======
 
 # What is this used for
